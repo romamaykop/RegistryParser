@@ -1,90 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Work\\Test VR\\RegistryParser\\",
+  "WorkspaceRootPath": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\parsers\\complexformatparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:parsers\\complexformatparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{085A7B2E-85A1-8EC5-0475-30AEFE03F731}|..\\RegistryLoader.Tests\\RegistryLoader.Tests.csproj|d:\\work\\test vr\\registryparser\\registryloader.tests\\services\\registryparserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\services\\registryparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:services\\registryparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\configuration\\tagmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:configuration\\tagmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\configuration\\parserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:configuration\\parserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\loaders\\multifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:loaders\\multifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:loaders\\fileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\parsers\\universalregexparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:parsers\\universalregexparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\parsers\\dbfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:parsers\\dbfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\parsers\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\parsers\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:parsers\\csvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\interfaces\\iparserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:interfaces\\iparserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\services\\registryparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:services\\registryparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\services\\parserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:services\\parserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\interfaces\\iregistryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:interfaces\\iregistryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\configuration\\parserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:configuration\\parserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\parseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\parseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\parsers\\universalregexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:parsers\\universalregexparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\parseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\parseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\extensions\\enums\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:extensions\\enums\\datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\dtos\\inreg_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\dtos\\inreg_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\dtos\\inreg_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\dtos\\inreg_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\models\\dtos\\inreg_payer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:models\\dtos\\inreg_payer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:registryparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|d:\\work\\test vr\\registryparser\\registryparser\\services\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B052D-A745-5714-411A-8F2B449528DF}|RegistryParser.csproj|solutionrelative:services\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,8 +45,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistryParserServiceTests.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryLoader.Tests\\Services\\RegistryParserServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\RegistryLoader.Tests\\Services\\RegistryParserServiceTests.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryLoader.Tests\\Services\\RegistryParserServiceTests.cs",
+              "RelativeToolTip": "..\\RegistryLoader.Tests\\Services\\RegistryParserServiceTests.cs",
+              "ViewState": "AgIAACkDAAAAAAAAAAAuwD0DAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:38:07.955Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComplexFormatParser.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\ComplexFormatParser.cs",
+              "RelativeDocumentMoniker": "Parsers\\ComplexFormatParser.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\ComplexFormatParser.cs",
+              "RelativeToolTip": "Parsers\\ComplexFormatParser.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAMwHQBAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:05:32.982Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -114,256 +92,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StringExtensions.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Extensions\\StringExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\StringExtensions.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Extensions\\StringExtensions.cs",
-              "RelativeToolTip": "Extensions\\StringExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ParserConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Configuration\\ParserConfiguration.cs",
+              "RelativeDocumentMoniker": "Configuration\\ParserConfiguration.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Configuration\\ParserConfiguration.cs",
+              "RelativeToolTip": "Configuration\\ParserConfiguration.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:49:19.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidationService.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Services\\ValidationService.cs",
-              "RelativeDocumentMoniker": "Services\\ValidationService.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Services\\ValidationService.cs",
-              "RelativeToolTip": "Services\\ValidationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:49:01.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistryParserService.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Services\\RegistryParserService.cs",
-              "RelativeDocumentMoniker": "Services\\RegistryParserService.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Services\\RegistryParserService.cs",
-              "RelativeToolTip": "Services\\RegistryParserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:48:50.951Z"
+              "WhenOpened": "2026-03-16T09:06:31.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TagMapping.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Configuration\\TagMapping.cs",
-              "RelativeDocumentMoniker": "Configuration\\TagMapping.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Configuration\\TagMapping.cs",
-              "RelativeToolTip": "Configuration\\TagMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RegistryParserService.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\RegistryParserService.cs",
+              "RelativeDocumentMoniker": "Services\\RegistryParserService.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\RegistryParserService.cs",
+              "RelativeToolTip": "Services\\RegistryParserService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAvwEYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:48:38.039Z"
+              "WhenOpened": "2026-03-13T11:10:54.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ParserConfiguration.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Configuration\\ParserConfiguration.cs",
-              "RelativeDocumentMoniker": "Configuration\\ParserConfiguration.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Configuration\\ParserConfiguration.cs",
-              "RelativeToolTip": "Configuration\\ParserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ParserFactory.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\ParserFactory.cs",
+              "RelativeDocumentMoniker": "Services\\ParserFactory.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\ParserFactory.cs",
+              "RelativeToolTip": "Services\\ParserFactory.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:48:22.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MultiFileLoader.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Loaders\\MultiFileLoader.cs",
-              "RelativeDocumentMoniker": "Loaders\\MultiFileLoader.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Loaders\\MultiFileLoader.cs",
-              "RelativeToolTip": "Loaders\\MultiFileLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:47:59.466Z"
+              "WhenOpened": "2026-03-13T11:06:59.344Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FileLoader.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Loaders\\FileLoader.cs",
-              "RelativeDocumentMoniker": "Loaders\\FileLoader.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Loaders\\FileLoader.cs",
-              "RelativeToolTip": "Loaders\\FileLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UniversalRegexParser.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\UniversalRegexParser.cs",
+              "RelativeDocumentMoniker": "Parsers\\UniversalRegexParser.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\UniversalRegexParser.cs",
+              "RelativeToolTip": "Parsers\\UniversalRegexParser.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAnwBwBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:47:49.513Z"
+              "WhenOpened": "2026-03-13T10:44:24.582Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UniversalRegexParserTests.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\UniversalRegexParserTests.cs",
-              "RelativeDocumentMoniker": "Parsers\\UniversalRegexParserTests.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\UniversalRegexParserTests.cs",
-              "RelativeToolTip": "Parsers\\UniversalRegexParserTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DataType.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Extensions\\Enums\\DataType.cs",
+              "RelativeDocumentMoniker": "Extensions\\Enums\\DataType.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Extensions\\Enums\\DataType.cs",
+              "RelativeToolTip": "Extensions\\Enums\\DataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:47:12.556Z"
+              "WhenOpened": "2026-03-13T10:12:10.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvParser.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\CsvParser.cs",
+              "RelativeDocumentMoniker": "Parsers\\CsvParser.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Parsers\\CsvParser.cs",
+              "RelativeToolTip": "Parsers\\CsvParser.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAEwLIBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:07:22.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DbfParser.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\DbfParser.cs",
-              "RelativeDocumentMoniker": "Parsers\\DbfParser.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\DbfParser.cs",
-              "RelativeToolTip": "Parsers\\DbfParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\StringExtensions.cs",
+              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser\\Services\\StringExtensions.cs",
+              "RelativeToolTip": "Services\\StringExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:46:55.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CsvParser.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\CsvParser.cs",
-              "RelativeDocumentMoniker": "Parsers\\CsvParser.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Parsers\\CsvParser.cs",
-              "RelativeToolTip": "Parsers\\CsvParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:46:46.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IParserFactory.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IParserFactory.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IParserFactory.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IParserFactory.cs",
-              "RelativeToolTip": "Interfaces\\IParserFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:45:03.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFileLoader.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IFileLoader.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IFileLoader.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IFileLoader.cs",
-              "RelativeToolTip": "Interfaces\\IFileLoader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:44:47.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRegistryParser.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IRegistryParser.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IRegistryParser.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Interfaces\\IRegistryParser.cs",
-              "RelativeToolTip": "Interfaces\\IRegistryParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:44:35.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ParseError.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\ParseError.cs",
-              "RelativeDocumentMoniker": "Models\\ParseError.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\ParseError.cs",
-              "RelativeToolTip": "Models\\ParseError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:43:50.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ParseResult.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\ParseResult.cs",
-              "RelativeDocumentMoniker": "Models\\ParseResult.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\ParseResult.cs",
-              "RelativeToolTip": "Models\\ParseResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:43:39.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Registry.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\Registry.cs",
-              "RelativeDocumentMoniker": "Models\\Registry.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\Registry.cs",
-              "RelativeToolTip": "Models\\Registry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:36:10.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "INREG_SERVICE.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_SERVICE.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\INREG_SERVICE.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_SERVICE.cs",
-              "RelativeToolTip": "Models\\DTOs\\INREG_SERVICE.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:35:52.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "INREG_COUNTER.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_COUNTER.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\INREG_COUNTER.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_COUNTER.cs",
-              "RelativeToolTip": "Models\\DTOs\\INREG_COUNTER.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:35:36.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "INREG_PAYER.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_PAYER.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\INREG_PAYER.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Models\\DTOs\\INREG_PAYER.cs",
-              "RelativeToolTip": "Models\\DTOs\\INREG_PAYER.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:35:20.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegistryParser.csproj",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser.csproj",
-              "RelativeDocumentMoniker": "RegistryParser.csproj",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\RegistryParser.csproj",
-              "RelativeToolTip": "RegistryParser.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T15:20:41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Work\\Test VR\\RegistryParser\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\Work\\Test VR\\RegistryParser\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:16:05.005Z"
+              "WhenOpened": "2026-03-13T09:58:55.099Z"
             }
           ]
         }

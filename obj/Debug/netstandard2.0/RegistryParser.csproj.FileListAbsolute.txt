@@ -1,0 +1,9 @@
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.csproj.AssemblyReference.cache
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.csproj.CoreCompileInputs.cache
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.sourcelink.json
+D:\Work\Test VR\RegistryParser\RegistryParser\bin\Debug\netstandard2.0\RegistryParser.deps.json
+D:\Work\Test VR\RegistryParser\RegistryParser\bin\Debug\netstandard2.0\RegistryParser.dll
+D:\Work\Test VR\RegistryParser\RegistryParser\bin\Debug\netstandard2.0\RegistryParser.pdb
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.dll
+D:\Work\Test VR\RegistryParser\RegistryParser\obj\Debug\netstandard2.0\RegistryParser.pdb

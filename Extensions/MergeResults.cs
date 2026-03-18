@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RegistryParser.Parsers
+namespace RegistryParser.Extensions
 {
-    internal class UniversalRegexParserTests
+    internal class MergeResults
     {
     }
 }

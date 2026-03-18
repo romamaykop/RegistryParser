@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = RegistryParser
-build_property.ProjectDir = D:\Work\Test VR\RegistryParser\
+build_property.ProjectDir = D:\Work\Test VR\RegistryParser\RegistryParser\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
